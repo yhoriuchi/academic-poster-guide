@@ -7,11 +7,11 @@
 
 This guide helps doctoral students and early-career researchers design, print, and present a research poster.
 
-**In a few seconds**, someone looking at your poster should be able to tell what you studied and find something to ask about.
+**In less than a minute**, someone looking at your poster should be able to tell what you studied and find something to ask about.
 
 At a busy session, people often join while you’re answering someone else’s question. Give them enough **to piece together your study** without hearing your opening explanation. Make your question, why it matters, the design, and the main result easy to find.
 
-> ⚠️ **Never, ever** assume that someone will spend 10-15 minutes to **read** your poster.
+> ⚠️ **Never** assume that someone will spend 10-15 minutes to **read** your poster.
 
 ## Step 1. Define the Message
 
